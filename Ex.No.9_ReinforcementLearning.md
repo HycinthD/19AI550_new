@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning 
-### DATE: 24/05/25                                                                          
-### REGISTER NUMBER : 212223240055
+### DATE:28-05-2026                                                                     
+### REGISTER NUMBER : 212222240055
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
@@ -106,11 +106,15 @@ behaviors:
         strength: 1.0
 ```
 ### Output:
+![WhatsApp Image 2025-05-19 at 13 25 54_adf4f7e4](https://github.com/user-attachments/assets/245d9080-7668-4d88-b438-8096250c950a)
 
-<img width="519" height="320" alt="WhatsApp Image 2026-05-22 at 8 09 44 AM" src="https://github.com/user-attachments/assets/79c7566f-1702-4bcc-a3ab-c52b5e96df25" />
-<img width="421" height="292" alt="WhatsApp Image 2026-05-22 at 8 09 45 AM" src="https://github.com/user-attachments/assets/157a8787-44a6-45b0-8083-6d5aee94d19c" />
+
+
+
+
+
 
 
 
 ### Result:
-Thus the AI character was trained using reinforcement learning.
+Thus the AI character was trained using reinforcement learning and is executed successfully.
